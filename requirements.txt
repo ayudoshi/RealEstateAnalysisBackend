@@ -3,3 +3,4 @@ djangorestframework
 pandas 
 openpyxl
 django-cors-headers
+gunicorn
